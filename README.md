@@ -3,4 +3,4 @@ this is a unofficial and upgraded version or real ShiginimaSE_v3000 and much saf
 # ZOOM like a lambo
 adjusted some peformace issues from real launcher, and launches the game 1000X times faster
 # Ram - the friendly foe of games
-everyone PC is not built in NASA, my this launcher can run your game in 128mb of ram
+everyone PC is not built in NASA, but this launcher can run your game in 128mb of ram
