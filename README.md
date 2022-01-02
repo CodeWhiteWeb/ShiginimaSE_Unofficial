@@ -1,7 +1,7 @@
 # installing
 Windows only :- [Click here to download](https://github.com/CodeWhiteWeb/ShiginimaSE_Unofficial/releases/download/minecraft/Shiginima.Launcher.SE.v3.000.jar)
 
-More comming soon
+More coming soon
 
 # ShiginimaSE_Unofficial
 this is a unofficial and upgraded version or real ShiginimaSE_v3000 and much safer with no virus
