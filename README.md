@@ -1,5 +1,6 @@
 # installing
-Windows only :- https://github.com/CodeWhiteWeb/ShiginimaSE_Unofficial/releases/download/minecraft/Shiginima.Launcher.SE.v3.000.jar
+Windows only :- (Click here to download)[https://github.com/CodeWhiteWeb/ShiginimaSE_Unofficial/releases/download/minecraft/Shiginima.Launcher.SE.v3.000.jar]
+
 More comming soon
 
 # ShiginimaSE_Unofficial
