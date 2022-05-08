@@ -4,7 +4,7 @@ Windows only :- [Click here to download](https://github.com/CodeWhiteWeb/Shigini
 More coming soon
 
 # ShiginimaSE_Unofficial
-this is a unofficial and upgraded version or real ShiginimaSE_v3000 and much safer with no virus
+this is a unofficial and upgraded version of real ShiginimaSE_v3000 and much safer with no virus
 # ZOOM like a lambo
 adjusted some peformace issues from real launcher, and launches the game 1000X times faster
 # Ram - the friendly foe of games
